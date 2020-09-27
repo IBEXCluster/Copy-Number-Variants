@@ -1,6 +1,6 @@
 #!/bin/bash
 #######################################################################################################################################################
-#  Trimmomatic + GATK 4 (Picard functionality) + GATK 3.8 HaplotypeCaller  + bgzip ( the *.g.VCF files) & tabix-index based workflow 
+#  Trimmomatic + GATK 4  + bgzip ( the *.g.VCF files) & tabix-index based workflow 
 #    Azza Althagafi, CBRC
 #	   Nagarajan Kathiresan, KSL 
 #       Modification required for any users:
