@@ -1,12 +1,11 @@
 #!/bin/bash
 #######################################################################################################################################################
 #  Trimmomatic + GATK 4 (Picard functionality) + GATK 3.8 HaplotypeCaller  + bgzip ( the *.g.VCF files) & tabix-index based workflow 
-#     Core Labs Version 1.0 dated Jan 8, 2020
-#  Azza Althagafi, CBRC
-#	 Nagarajan Kathiresan, KSL 
-#     Modification required for any users:
-#      1. INPUT (directory location)
-#      2. PROJECT (directory location)
+#    Azza Althagafi, CBRC
+#	   Nagarajan Kathiresan, KSL 
+#       Modification required for any users:
+#        1. INPUT (directory location)
+#        2. PROJECT (directory location)
 #
 ########################################################################################################################################################
 
